@@ -1,4 +1,6 @@
-body {  background-color: #9CCCCC; }
+body {  
+  background-color: #9CCCCC; 
+}
 
 p {
   font-family: sans-serif;
@@ -23,4 +25,14 @@ p {
   background-color: #e7d6b1;
   width: 283px;
   margin: auto;
+}
+
+#cute {
+  font-family: sans-serif;
+  padding: 35px;
+  width: 283px;
+  text-align: center;
+  margin: auto;
+  border-style:solid;
+  border-radius:4px
 }
